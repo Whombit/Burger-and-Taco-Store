@@ -5,6 +5,8 @@ This is my first like, project projecty thing in java
 
 - How to use -
 
+Run the "StoreRunner" class
+
 The program will create a scanner and ask the user what amount of burger patties they want on their burger
 Then it asks for the price..? yea I know its weird I slammed this out in a class period because I wanted
 to be done with it. I know I could easily give them a value based on intial cost and cost per patty added
